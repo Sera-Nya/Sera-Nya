@@ -1,6 +1,8 @@
 ## Hello, I'm Sera! Welcome to my profile!  
 If you need anything, feel free to take it — everything is under the MIT license.
 
+No matter where you're from, I Love you!
+
 About me:  
 I like C++ and foxes, and I'm not a fan of Python.  
 I'm currently learning game reverse engineering and have already created a successful product, Astral Realm, for Monster Hunter: World.
